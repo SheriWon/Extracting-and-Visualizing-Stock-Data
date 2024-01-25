@@ -1,11 +1,11 @@
 <img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/IBM.png" alt="Header"/> 
 
-# Data Visualization with Python
+# Data Analysis with Python
 
 # 📄 Summary
-This course teaches how to present and visualize complex data in a manner that makes sense to people, and allows for insights to be easily seen and derived. This course makes use of several Python data visualization libraries such as Matplotlib, Seaborn, Plotly, and Folium, to explore Stock data. 
+This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a final assignment predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
-🔑 Key Skills Learned
+## 📑 Main Topics
 - Webscraping to Extract Stock Data
 - Importing Data Sets
 - Data Wrangling
@@ -18,6 +18,13 @@ This course teaches how to present and visualize complex data in a manner that m
 - Model Development
 - Model Evaluation and Refinement
 - Visualisation
+
+## 🔑 Key Skills Learned
+- Using Pandas, Numpy and Scipy libraries for data manipulation
+- Using Scikit-Learn to build smart models and make predictions
+- Building machine learning regression models
+- Building data pipelines
+
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
@@ -57,8 +64,7 @@ To verify the certificates, click the images to follow the links.
 </p>
 
 
-<img src="https://camo.githubusercontent.com/bffe4e0df8c6d08e16262df4f07bcabc4ca8b6bdfdc68fdddcaa1f58e807e7a8/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313333313136343739332f766563746f722f73747564792d6368616d70696f6e736869702d6c6f676f2d74656d706c6174652d64657369676e2e6a70673f733d3631327836313226773d30266b3d323026633d3751436c5865744374393049795354734f564257507a4571574c36545778417752516e466d684e4e73624d3d" width = '25' height = '25'/> Data Visualization with Python
-
+<img src="https://camo.githubusercontent.com/bffe4e0df8c6d08e16262df4f07bcabc4ca8b6bdfdc68fdddcaa1f58e807e7a8/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313333313136343739332f766563746f722f73747564792d6368616d70696f6e736869702d6c6f676f2d74656d706c6174652d64657369676e2e6a70673f733d3631327836313226773d30266b3d323026633d3751436c5865744374393049795354734f564257507a4571574c36545778417752516e466d684e4e73624d3d" width = '25' height = '25'/> Data Analysis with Python
 Issued by Coursera
 Authorized by IBM
 This badge earner has the core skills in Data Analysis using Python. They can readily clean, visualize and summarize data using Pandas. Using Scikit-learn, the earner can develop Data Pipelines, construct Machine learning models for Regression and evaluate these models.
