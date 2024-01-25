@@ -3,7 +3,7 @@
 # Data Analysis with Python
 
 # 📄 Summary
-This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a final assignment[final assignment](https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb) predicting of the stock price based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
+This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a final assignment [final assignment](https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/Extracting%20and%20Visualizing%20Stock%20Data.ipynb) predicting of the stock price based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 ## 📑 Main Topics
 - Webscraping to Extract Stock Data
