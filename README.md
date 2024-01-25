@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\IBM.png" alt="Header"/> 
+<img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/IBM.png" alt="Header"/> 
 
 # Data Visualization with Python
 
@@ -22,10 +22,10 @@ This course teaches how to present and visualize complex data in a manner that m
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
-  <img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\python.png" height="75">
-  <img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\j.png" height="75">
-  <img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\b.png" height="75">
-  <img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\bb.png" height="75">
+  <img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/python.png" height="75">
+  <img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/j.png" height="75">
+  <img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/b.png" height="75">
+  <img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/bb.png" height="75">
 </p>
 (Python, Jupyter, IBM Watson Studio, IBM Cloud Pak)
 
@@ -33,12 +33,12 @@ The following tools were used to complete this certification: <br> <br>
 ## 📖 Libraries
 The following Python libraries were used throughout the certification: <br> 
 <p align="left">
-  <img  src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\p.png" height="35">
-  <img  src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\n.png" height="35">
-  <img  src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\s.png" height="35">
-  <img  src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\m.png" height="35">
-  <img  src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\s1.png" height="35">
-  <img  src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\l.png" height="35"> <br>
+  <img  src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/p.png" height="35">
+  <img  src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/n.png" height="35">
+  <img  src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/s.png" height="35">
+  <img  src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/m.png" height="35">
+  <img  src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/s1.png" height="35">
+  <img  src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/l.png" height="35"> <br>
 </p>
 
 
@@ -53,12 +53,12 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
  <p align="middle">
-  <a href="https://coursera.org/share/e50f73e4177f1b9e65d8ac5255c4f2a8"><img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\Coursera WMKJNS4CJRAZ_page-0001.jpg" height="430"></a>
-  <a href="https://www.credly.com/badges/589bf929-0611-42cf-b9fa-69616dc70c30/linked_in?t=s51894"><img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\Screenshot 2024-01-25 153143.png" height="430"></a>
+  <a href="https://coursera.org/share/e50f73e4177f1b9e65d8ac5255c4f2a8"><img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/Coursera%20WMKJNS4CJRAZ_page-0001.jpg" height="430"></a>
+  <a href="https://www.credly.com/badges/589bf929-0611-42cf-b9fa-69616dc70c30/linked_in?t=s51894"><img src="https://github.com/SheriWon/Extracting-and-Visualizing-Stock-Data/blob/main/img/Screenshot%202024-01-25%20153143.png" height="430"></a>
 </p>
 
 
-<img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Data Visualization with Python
+<img src="https://camo.githubusercontent.com/bffe4e0df8c6d08e16262df4f07bcabc4ca8b6bdfdc68fdddcaa1f58e807e7a8/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313333313136343739332f766563746f722f73747564792d6368616d70696f6e736869702d6c6f676f2d74656d706c6174652d64657369676e2e6a70673f733d3631327836313226773d30266b3d323026633d3751436c5865744374393049795354734f564257507a4571574c36545778417752516e466d684e4e73624d3d" width = '25' height = '25'/> Data Visualization with Python
 
 Issued by Coursera
 Authorized by IBM
