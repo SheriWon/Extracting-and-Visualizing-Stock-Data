@@ -5,13 +5,6 @@
 # 📄 Summary
 This course teaches how to present and visualize complex data in a manner that makes sense to people, and allows for insights to be easily seen and derived. This course makes use of several Python data visualization libraries such as Matplotlib, Seaborn, Plotly, and Folium, to explore Stock data. 
 
-📑 Main Topics
-
-- Introduction to Data Visualization Tools
-- Basic and Specialized Visualization Tools
-- Webscraping to Extract Stock Data
-
-
 🔑 Key Skills Learned
 - Webscraping to Extract Stock Data
 - Importing Data Sets
