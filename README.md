@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="C:\Users\Xiao Wang\Desktop\Python\Extracting-and-Visualizing-Stock-Data\img\IBM.png" alt="Header"/> 
 
 # Data Visualization with Python
@@ -63,3 +64,6 @@ Issued by Coursera
 Authorized by IBM
 This badge earner has the core skills in Data Analysis using Python. They can readily clean, visualize and summarize data using Pandas. Using Scikit-learn, the earner can develop Data Pipelines, construct Machine learning models for Regression and evaluate these models.
 
+=======
+# Extracting-and-Visualizing-Stock-Data
+>>>>>>> 5e8adc1b4fc67e58de8ecc94436f584f70d032ab
