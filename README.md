@@ -13,12 +13,18 @@ This course teaches how to present and visualize complex data in a manner that m
 
 
 🔑 Key Skills Learned
-
-- Using Matplotlib to create various plots, including line plots, area plots, histograms, bar charts, and more.
-- Applying advanced visualization tools to create waffle charts and word clouds.
-- Using Seaborn with Matplotlib to generate attractive regression plots.
-- Creating maps and visualizing geospatial data, using Folium.
-- Using Dash and basic Dash components (core and HTML).
+- Webscraping to Extract Stock Data
+- Importing Data Sets
+- Data Wrangling
+  - Describe how to handle missing values
+  - Describe data formatting techniques
+  - Describe data normalization and standardization
+  - Demonstrate the use of binning
+  - Demonstrate the use of categotical variables
+- Perform Computations on the Data to Calculate Basic Descriptive Statistical Information
+- Model Development
+- Model Evaluation and Refinement
+- Visualisation
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
